@@ -1,0 +1,7 @@
+
+IP 192.168.51.33 [CLC Distro: CENTOS CLC Version: 5.7 CLC ARCH 64] is built from REPO as Eucalyptus-CC00 CLC SC00 WS
+IP 192.168.51.36 [NC Distro: CENTOS NC Version: 5.7 NC ARCH 64] is built from REPO as Eucalyptus-NC00
+IP 192.168.51.38 [NC Distro: CENTOS NC Version: 5.7 NC ARCH 64] is built from REPO as Eucalyptus-NC00
+Creating an SSH connection to root:foobar@192.168.51.33
+Warning: Permanently added '192.168.51.33' (RSA) to the list of known hosts.
+[root@192.168.51.33 - 11-17 22:32:45] rm -rf eucarc-eucalyptus-admin
